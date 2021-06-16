@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6d624ee9-4800-4fa7-aa3b-d516ecfce7bd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1X7YAm4tR0xfrDpX0vupaoGCvhf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/game.py" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="game" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="PyGame" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\DELL\AppData\Local\Programs\Python\Python37-32\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/game.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6d624ee9-4800-4fa7-aa3b-d516ecfce7bd" name="Default Changelist" comment="" />
+      <created>1580398458896</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580398458896</updated>
+      <workItem from="1580398480596" duration="245000" />
+      <workItem from="1580398761454" duration="24530000" />
+      <workItem from="1580702228434" duration="217000" />
+      <workItem from="1585117722845" duration="27000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="28" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580398587531">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="137" y="28" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.738@0.0.1366.738" timestamp="1580398587531" />
+    <state x="413" y="120" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1580479221262">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="413" y="120" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.738@0.0.1366.738" timestamp="1580479221262" />
+    <state x="463" y="128" key="FileChooserDialogImpl" timestamp="1580398579331">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="463" y="128" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1580398579331" />
+    <state width="1323" height="187" key="GridCell.Tab.0.bottom" timestamp="1580974970312">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="187" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1580974970312" />
+    <state width="1323" height="187" key="GridCell.Tab.0.center" timestamp="1580974970311">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="187" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1580974970311" />
+    <state width="1323" height="187" key="GridCell.Tab.0.left" timestamp="1580974970310">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="187" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1580974970310" />
+    <state width="1323" height="187" key="GridCell.Tab.0.right" timestamp="1580974970311">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="187" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1580974970311" />
+    <state width="1323" height="227" key="GridCell.Tab.1.bottom" timestamp="1580577196112">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="227" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1580577196112" />
+    <state width="1323" height="227" key="GridCell.Tab.1.center" timestamp="1580577196112">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="227" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1580577196112" />
+    <state width="1323" height="227" key="GridCell.Tab.1.left" timestamp="1580577196112">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="227" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1580577196112" />
+    <state width="1323" height="227" key="GridCell.Tab.1.right" timestamp="1580577196112">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="227" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1580577196112" />
+    <state x="346" y="59" key="search.everywhere.popup" timestamp="1580576373135">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="346" y="59" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1580576373135" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PyGame$game.coverage" NAME="game Coverage Results" MODIFIED="1580974970223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
